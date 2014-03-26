@@ -10,7 +10,6 @@ html {
   background: #114d6a url("../img/website-bg.png") repeat-x left top; }
   
 body {
-<<<<<<< HEAD
   margin: 80px 0; }
 
 input {
@@ -45,10 +44,6 @@ input {
     input[type="text"]:-ms-input-placeholder, input[type="email"]:-ms-input-placeholder {
       color: #9d948c; }
 
-=======
-  margin: 80px 0;  }
-  
->>>>>>> origin/master
 .heading:after {
   content: "";
   display: block;
